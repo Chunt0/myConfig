@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "coc-pyright": ">=1.1.235",
+    "coc-python": ">=1.2.13",
+    "coc-word": ">=1.2.2"
+  }
+}
